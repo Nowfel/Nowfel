@@ -18,15 +18,15 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowfel&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/nowfel-hossain-48a893179/"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://www.instagram.com/nowfel.hossain/?hl=en"></a>
-<!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
