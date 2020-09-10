@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIUC.
-- 💼 &nbsp; Working as a Business Development Associate at 
+- 💼 &nbsp; Working as a Business Development Associate at 7 Star
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
