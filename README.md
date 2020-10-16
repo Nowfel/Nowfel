@@ -4,14 +4,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIUC.
-- 💼 &nbsp; Working as a Business Development Associate at 7 Star
-- 🌱 &nbsp; Learning more about Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Expert in developing Single Page Aplication(SPA) using React and Node.js.
+- 🌱 &nbsp; Love to develop modern and impressive websites for my clients and always responsible for the job.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 💻 &nbsp; Python | C#
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Material UI | Express.js| MongoDB 
+- 💻 &nbsp; C#
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown
 
