@@ -1,7 +1,5 @@
 <h2> Hey there! I'm Nowfel.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
