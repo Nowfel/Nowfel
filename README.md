@@ -2,18 +2,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIUC.
-- 💼 &nbsp; Expert in developing Single Page Aplication(SPA) using React and Node.js.
-- 🌱 &nbsp; Love to develop modern and impressive websites for my clients and always responsible for the job.
-
-<h3>🛠 Tech Stack</h3>
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Material UI | Express.js| MongoDB 
-- 💻 &nbsp; C#
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown
-
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
